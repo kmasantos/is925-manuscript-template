@@ -375,7 +375,7 @@
 	\section{\refname}\@mkboth{\MakeUppercase{\refname}}{\MakeUppercase{\refname}}}
 	\makeatother
 
-	\bibliographystyle{plain}
+	\bibliographystyle{apacite}
 	\setlength{\bibsep}{3ex}
 	\bibliography{#1}
 }
